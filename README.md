@@ -1,5 +1,4 @@
-# Presentations
-Collection of tech talk presentations
+# Tech Talk Presentations
 
 ### Contents
 * **Android UI Automation with Espresso** (last update: September 14, 2019)
